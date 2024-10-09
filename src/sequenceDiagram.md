@@ -1,6 +1,6 @@
 ```mermaid
 sequenceDiagram
     Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
+    John-->>Alice: That's Great!
     Alice-)John: See you later!
 ```
