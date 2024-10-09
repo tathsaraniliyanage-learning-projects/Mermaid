@@ -17,18 +17,17 @@ Integration Friendly: Supports embedding in Markdown, GitHub, GitLab, and more.
 
 ## How works :
 
-#### Mermaid can be used directly in various environments, including Markdown files, static sites, and web applications. To get started, install Mermaid via npm or directly use the CDN link in your project.
+ Mermaid can be used directly in various environments, including Markdown files, static sites, and web applications. To get started, install Mermaid via npm or directly use the CDN link in your project.
 
-npm install mermaid
+ npm install mermaid
 
-#### Or use it via a CDN:
-
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
+##### Or use it via a CDN
 
 
+
+## License
+
+This project is licensed under the MIT License.
 
 
 
