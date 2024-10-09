@@ -27,7 +27,7 @@ Integration Friendly: Supports embedding in Markdown, GitHub, GitLab, and more.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 
 
